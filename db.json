@@ -1,0 +1,42 @@
+{
+  "produtos": [
+    {
+      "nome": "Computador",
+      "marca": "Dell",
+      "valor": 3000,
+      "id": "1"
+    },
+    {
+      "nome": "Mouse",
+      "marca": "Razer",
+      "valor": 234,
+      "id": "2"
+    },
+    {
+      "nome": "Teclado",
+      "marca": "Redragon",
+      "valor": 275.4,
+      "id": "3"
+    },
+    {
+      "nome": "Monitor",
+      "marca": "Dell",
+      "valor": 3300,
+      "id": "4"
+    },
+    {
+      "id": "6",
+      "nome": "Carregador",
+      "marca": "Apple",
+      "valor": 200.45
+    }
+  ],
+  "nomes": [
+    {
+      "nome": "Senai",
+      "cidade": "Mogi das Cruzes",
+      "estado": "São Paulo",
+      "id": "10"
+    }
+  ]
+}
